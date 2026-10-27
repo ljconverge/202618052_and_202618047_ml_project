@@ -1,9 +1,12 @@
-fdm/
-venv/
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
+fl/
+venv/
+.env
 logs/
 data/raw/
 data/interim/
+models/*.joblib
 *.pkl
-*.joblib
+reports/tables/
