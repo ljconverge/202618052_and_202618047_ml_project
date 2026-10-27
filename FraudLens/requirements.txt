@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+nltk
+vaderSentiment
+requests
+beautifulsoup4
+scrapy
+pyyaml
+joblib
+jupyter
