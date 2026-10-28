@@ -1,5 +1,12 @@
-"""
-Step 1: download SEC company list and XBRL company facts (raw JSON, unchanged).
+"""Step 1: download SEC company list and XBRL company facts (raw JSON, unchanged).
+
+Run from the project root:
+    python src/acquisition/fetch_sec_edgar.py
+
+Outputs:
+    data/raw/sec_edgar/company_list_all.csv      every SEC registrant (ticker, CIK, name)
+    data/raw/sec_edgar/company_list_sample.csv   the first N companies (N from config)
+    data/raw/sec_edgar/facts/CIK##########.json  one raw XBRL file per company
 """
 import sys
 import time

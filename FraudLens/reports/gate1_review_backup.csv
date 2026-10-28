@@ -1,0 +1,47 @@
+cik,ticker,company_name,aaer_text,aaer_link,decision
+1045810,NVDA,NVIDIA CORP,"Sept. 11, 2003 | Nvidia Corporation Release No. 34-48480, AAER-1859",https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-48480,keep
+789019,MSFT,MICROSOFT CORP,"June 3, 2002 | Microsoft Corporation Release No. 34-46017, AAER-1563",https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-46017,keep
+1018724,AMZN,AMAZON COM INC,"June 10, 2002 | Ashford.com, Inc., Kenneth E. Kurtzman, Brian E. Bergeron andAmazon.com, Inc. Release No. LR-17550, AAER-1574",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-17550,keep
+1018724,AMZN,AMAZON COM INC,"June 10, 2002 | Ashford.com, Inc., Kenneth E. Kurtzman, Brian E. Bergeron andAmazon.com, Inc. Release No. 34-46052, AAER-1573",https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-46052,keep
+104169,WMT,Walmart Inc.,"June 20, 2019 | Walmart Inc. Release No. 34-86159, AAER-4054",https://www.sec.gov/files/litigation/admin/2019/34-86159.pdf,keep
+19617,JPM,JPMORGAN CHASE & CO,"Nov. 17, 2016 | JP Morgan Chase & Co. Release No. 34-79335, AAER-3824",https://www.sec.gov/files/litigation/admin/2016/34-79335.pdf,keep
+19617,JPM,JPMORGAN CHASE & CO,"July 28, 2003 | J.P. Morgan Chase & Co. Release No. LR-18252, AAER-1820",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-18252,keep
+19617,JPM,JPMORGAN CHASE & CO,"Sept. 19, 2013 | JPMorgan Chase & Co. Release No. 34-70458, AAER-3490",https://www.sec.gov/files/litigation/admin/2013/34-70458.pdf,keep 
+200406,JNJ,JOHNSON & JOHNSON,"April 8, 2011 | Johnson & Johnson Release No. LR-21922, AAER-3261 See Also: SEC Complaint",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-21922,keep
+21344,KO,COCA COLA CO,"April 18, 2005 | The Coca-Cola Company Release No. 33-8569, 34-51565, AAER-2232",https://www.sec.gov/files/litigation/admin/33-8569.pdf,keep
+40545,GE,GENERAL ELECTRIC CO,"Sept. 4, 2024 | Portland General Electric Company Release No. 34-100917, AAER-4515 See Also: Administrative Summary",https://www.sec.gov/files/litigation/admin/2024/34-100917.pdf,drop
+40545,GE,GENERAL ELECTRIC CO,"Dec. 9, 2020 | General Electric Company Release No. 33-10899, 34-90620, AAER-4194",https://www.sec.gov/files/litigation/admin/2020/33-10899.pdf,keep
+40545,GE,GENERAL ELECTRIC CO,"July 27, 2010 | General Electric Company; Ionics, Inc.; and Amersham  plc Release No. LR-21602, AAER-3159 See Also: SEC Complaint",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-21602,keep
+40545,GE,GENERAL ELECTRIC CO,"Aug. 4, 2009 | General Electric Company Release No. LR-21166, AAER-3029 See Also: SEC Complaint",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-21166,keep
+1306965,SHEL,Shell plc,"Nov. 4, 2010 | Royal Dutch Shell plc and Shell International Exploration and Production Inc. Release No. 34-63243, AAER-3204",https://www.sec.gov/files/litigation/admin/2010/34-63243.pdf,keep
+1114448,NVS,NOVARTIS AG,"June 25, 2020 | Novartis AG Release No. 34-89149, AAER-4150",https://www.sec.gov/files/litigation/admin/2020/34-89149.pdf,keep
+1114448,NVS,NOVARTIS AG,"March 23, 2016 | Novartis AG Release No. 34-77431, AAER-3759 See Also: Administrative Summary",https://www.sec.gov/files/litigation/admin/2016/34-77431.pdf,keep
+895421,MS,MORGAN STANLEY,"Nov. 4, 2004 | Morgan Stanley Release No. 34-50632, AAER-2132",https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-50632,keep
+1000275,RY,ROYAL BANK OF CANADA,"Nov. 2, 2023 | Royal Bank of Canada Release No. 34-98849, AAER-4473",https://www.sec.gov/files/litigation/admin/2023/34-98849.pdf,keep
+901832,AZN,ASTRAZENECA PLC,"Aug. 30, 2016 | AstraZeneca PLC Release No. 34-78730, AAER-3798 See Also: Administrative Summary",https://www.sec.gov/files/litigation/admin/2016/34-78730.pdf,keep
+886982,GS,GOLDMAN SACHS GROUP INC,"Oct. 22, 2020 | The Goldman Sachs Group, Inc. Release No. 34-90243, AAER-4191 See Also: Press Release No. 2020-265",https://www.sec.gov/files/litigation/admin/2020/34-90243.pdf,keep
+51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,"Dec. 21, 2000 | International Business Machines Corporation Release No. LR-16839, AAER-1356",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-16839,keep
+51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,"Dec. 21, 2000 | International Business Machines Corporation Release No. 34-43761, AAER-1355",https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-43761,keep
+51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,"March 18, 2011 | International Business Machines Corporation Release No. LR-21889, AAER-3254 See Also: SEC Complaint",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-21889,keep
+51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,"June 25, 2007 | International Business Machines Corporation Release No. 34-55954, AAER-2623 See Also: Litigation Release No. 20166",https://www.sec.gov/files/litigation/admin/2007/34-55954.pdf,keep
+51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,"June 5, 2007 | International Business Machines Corporation Release No. 34-55858, AAER-2616",https://www.sec.gov/files/litigation/admin/2007/34-55858.pdf,keep
+831001,C,CITIGROUP INC,"Aug. 16, 2018 | Citigroup Inc. Release No. 34-83858, AAER-3958",https://www.sec.gov/files/litigation/admin/2018/34-83858.pdf,keep
+831001,C,CITIGROUP INC,"Sept. 10, 2003 | Citigroup, Inc. Release No. LR-18335, AAER-1852",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-18335,drop
+831001,C,CITIGROUP INC,"July 28, 2003 | Citigroup, Inc. Release No. 34-48230, AAER-1821",https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-48230,keep
+831001,C,CITIGROUP INC,"June 16, 2008 | Citigroup Inc. Release No. 34-57970, AAER-2838",https://www.sec.gov/files/litigation/admin/2008/34-57970.pdf,keep
+78003,PFE,PFIZER INC,"Aug. 8, 2012 | Pfizer Inc. / Wyeth LLC Release No. LR-22438, AAER-3399",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-22438,keep
+1668717,BUD,Anheuser-Busch InBev SA/NV,"Sept. 28, 2016 | Anheuser-Busch InBev SA/NV Release No. 34-78957, AAER-3808",https://www.sec.gov/files/litigation/admin/2016/34-78957.pdf,keep
+863064,RIO,RIO TINTO PLC,"March 6, 2023 | Rio Tinto plc Release No. 34-97049, AAER-4386",https://www.sec.gov/files/litigation/admin/2023/34-97049.pdf,keep
+14272,BMY,BRISTOL MYERS SQUIBB CO,"Aug. 6, 2004 | Bristol-Myers Squibb Company Release No. LR-18822, AAER-2080",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-18822,keep
+14272,BMY,BRISTOL MYERS SQUIBB CO,"Aug. 4, 2004 | Bristol-Myers Squibb Company Release No. LR-18820, AAER-2075",https://www.sec.gov/enforcement-litigation/litigation-releases/lr-18820,keep
+927628,COF,CAPITAL ONE FINANCIAL CORP,"April 24, 2013 | Capital One Financial Corporation, Peter A. Schnall, and David A. LaGassa Release No. 34-69442, AAER-3456",https://www.sec.gov/files/litigation/admin/2013/34-69442.pdf,keep
+310764,SYK,STRYKER CORP,"Sept. 28, 2018 | Stryker Corporation Release No. 34-84308, AAER-3990",https://www.sec.gov/files/litigation/admin/2018/34-84308.pdf,keep
+1390777,BNY,Bank of New York Mellon Corp,"Aug. 18, 2015 | The Bank of New York Mellon Corporation Release No. 34-75720, AAER-3679",https://www.sec.gov/files/litigation/admin/2015/34-75720.pdf,keep
+1326160,DUK,Duke Energy CORP,"July 8, 2005 | Duke Energy Corporation Release No. 34-51995, AAER-2273",https://www.sec.gov/files/litigation/admin/34-51995.pdf,keep
+823768,WM,WASTE MANAGEMENT INC,"June 21, 2000 | Waste Management, Inc. Release No. 34-42968, AAER-1277",https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-42968,keep
+713676,PNC,"PNC FINANCIAL SERVICES GROUP, INC.","July 18, 2002 | PNC Financial Services Group, Inc. Release No. 33-8112, AAER-1597",https://www.sec.gov/enforcement-litigation/administrative-proceedings/33-8112,drop
+1090727,UPS,UNITED PARCEL SERVICE INC,"Nov. 22, 2024 | United Parcel Service, Inc. Release No. 33-11328, 34-101702, AAER-4542",https://www.sec.gov/files/litigation/admin/2024/33-11328.pdf,keep
+1103982,MDLZ,"Mondelez International, Inc.","Jan. 6, 2017 | Cadbury Limited and Mondelez International, Inc. Release No. 34-79753, AAER-3841 See Also: Administrative Summary",https://www.sec.gov/files/litigation/admin/2017/34-79753.pdf,keep
+1585689,HLT,Hilton Worldwide Holdings Inc.,"Sept. 30, 2020 | Hilton Worldwide Holdings Inc. Release No. 34-90052, AAER-4182",https://www.sec.gov/files/litigation/admin/2020/34-90052.pdf,keep
+312069,BCS,BARCLAYS PLC,"Sept. 29, 2022 | Barclays PLC and Barclays Bank PLC Release No. 33-11110, 34-95944, AAER-4344",https://www.sec.gov/files/litigation/admin/2022/33-11110.pdf,keep
+26172,CMI,CUMMINS INC,"Feb. 7, 2006 | Cummins Inc. Release No. 34-53236, AAER-2370",https://www.sec.gov/files/litigation/admin/34-53236.pdf,keep

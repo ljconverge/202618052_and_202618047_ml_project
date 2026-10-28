@@ -1,0 +1,55 @@
+cik,ticker,company_name,label_group,articles,has_news
+19617,JPM,JPMORGAN CHASE & CO,fraud,8,True
+40545,GE,GENERAL ELECTRIC CO,fraud,4,True
+51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,fraud,4,True
+78003,PFE,PFIZER INC,fraud,6,True
+104169,WMT,Walmart Inc.,fraud,8,True
+200406,JNJ,JOHNSON & JOHNSON,fraud,8,True
+310764,SYK,STRYKER CORP,fraud,0,False
+312069,BCS,BARCLAYS PLC,fraud,8,True
+831001,C,CITIGROUP INC,fraud,8,True
+863064,RIO,RIO TINTO PLC,fraud,0,False
+886982,GS,GOLDMAN SACHS GROUP INC,fraud,8,True
+927628,COF,CAPITAL ONE FINANCIAL CORP,fraud,1,True
+1000275,RY,ROYAL BANK OF CANADA,fraud,8,True
+1090727,UPS,UNITED PARCEL SERVICE INC,fraud,5,True
+1103982,MDLZ,"Mondelez International, Inc.",fraud,1,True
+1114448,NVS,NOVARTIS AG,fraud,2,True
+1390777,BNY,Bank of New York Mellon Corp,fraud,8,True
+1585689,HLT,Hilton Worldwide Holdings Inc.,fraud,1,True
+6951,AMAT,APPLIED MATERIALS INC /DE,control,0,False
+1404912,KKR,KKR & Co. Inc.,control,1,True
+1131399,GSK,GSK plc,control,2,True
+1373715,NOW,"ServiceNow, Inc.",control,3,True
+891478,SAN,"Banco Santander, S.A.",control,1,True
+1691493,NU,Nu Holdings Ltd.,control,0,False
+1973239,ARM,ARM HOLDINGS PLC /UK,control,0,False
+1166691,CMCSA,COMCAST CORP,control,6,True
+2488,AMD,ADVANCED MICRO DEVICES INC,control,4,True
+64040,SPGI,S&P Global Inc.,control,0,False
+796343,ADBE,ADOBE INC.,control,2,True
+884887,RCL,ROYAL CARIBBEAN CRUISES LTD,control,0,False
+865752,MNST,Monster Beverage Corp,control,0,False
+1001838,SCCO,SOUTHERN COPPER CORP/,control,0,False
+1321655,PLTR,Palantir Technologies Inc.,control,1,True
+4281,HWM,Howmet Aerospace Inc.,control,0,False
+833444,JCI,Johnson Controls International plc,control,1,True
+909832,COST,COSTCO WHOLESALE CORP /NEW,control,0,False
+898173,ORLY,O REILLY AUTOMOTIVE INC,control,0,False
+12927,BA,BOEING CO,control,8,True
+1283699,TMUS,"T-Mobile US, Inc.",control,3,True
+882095,GILD,"GILEAD SCIENCES, INC.",control,8,True
+62709,MRSH,"MARSH & MCLENNAN COMPANIES, INC.",control,0,False
+1060391,RSG,"REPUBLIC SERVICES, INC.",control,1,True
+1101239,EQIX,EQUINIX INC,control,0,False
+1561550,DDOG,"Datadog, Inc.",control,1,True
+354950,HD,"HOME DEPOT, INC.",control,2,True
+1510295,MPC,Marathon Petroleum Corp,control,2,True
+50863,INTC,INTEL CORP,control,4,True
+883241,SNPS,SYNOPSYS INC,control,1,True
+1045520,CM,CANADIAN IMPERIAL BANK OF COMMERCE /CAN/,control,0,False
+1144967,HDB,HDFC BANK LTD,control,8,True
+1045609,PLD,"Prologis, Inc.",control,0,False
+63908,MCD,MCDONALDS CORP,control,0,False
+766704,WELL,WELLTOWER INC.,control,1,True
+831259,FCX,FREEPORT-MCMORAN INC,control,1,True

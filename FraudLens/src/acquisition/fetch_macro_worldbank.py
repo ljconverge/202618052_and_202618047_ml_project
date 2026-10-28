@@ -1,5 +1,10 @@
-"""
-Step 3: download World Bank indicators for the configured country.
+"""Step 3: download World Bank indicators for the configured country.
+
+Run from the project root:
+    python src/acquisition/fetch_macro_worldbank.py
+
+Output:
+    data/raw/macro/worldbank_macro_raw.csv   one row per year, one column per indicator
 """
 import sys
 import time

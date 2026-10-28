@@ -1,5 +1,12 @@
-"""
-Day 1 Gate 1: how many of our sampled companies appear in the SEC AAER enforcement list?
+"""Day 1 Gate 1: how many of our sampled companies appear in the SEC AAER enforcement list?
+
+Run from the project root (after fetch_sec_edgar.py and fetch_aaer.py).
+Searches ALL SEC registrants, not only the sample.
+    python src/audit/gate1_overlap.py
+
+Output:
+    reports/tables/gate1_overlap.csv   one row per sampled company that matched an AAER row
+Printed: the matched count. Fraud labels need this overlap to be large enough to learn from.
 """
 import re
 import sys
@@ -10,7 +17,7 @@ import pandas as pd
 sys.path.append(str(Path(__file__).resolve().parents[2]))
 from src.utils.config import ROOT  # noqa: E402
 
-SAMPLE = ROOT / "data" / "raw" / "sec_edgar" / "company_list_sample.csv"
+SAMPLE = ROOT / "data" / "raw" / "sec_edgar" / "company_list_all.csv"   # search all SEC registrants
 AAER = ROOT / "data" / "raw" / "aaer" / "aaer_rows_raw.csv"
 OUT = ROOT / "reports" / "tables" / "gate1_overlap.csv"
 MIN_NAME_LEN = 8   # very short normalised names match too easily, so skip them

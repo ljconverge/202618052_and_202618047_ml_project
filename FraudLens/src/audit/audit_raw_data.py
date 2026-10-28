@@ -1,5 +1,7 @@
-"""
-Day 1 audit: scan every CSV under data/ and write a markdown report.
+"""Day 1 audit: scan every CSV under data/ and write a markdown report.
+
+Run from the project root:
+    python src/audit/audit_raw_data.py
 """
 import os
 import pandas as pd

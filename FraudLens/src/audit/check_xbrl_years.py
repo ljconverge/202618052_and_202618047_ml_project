@@ -48,7 +48,10 @@ def enforcement_year(text):
 
 def main():
     review = pd.read_csv(REVIEW, dtype={"decision": str})
-    kept = review[review["decision"].str.lower() == "keep"].copy()
+    kept = review[review["decision"].fillna("").str.lower() == "keep"].copy()
+    if kept.empty:
+        raise SystemExit("No rows marked keep in gate1_review.csv. Fill or merge the decisions first "
+                         "(merge_decisions.py, or review the rows by hand).")
     kept["enforcement_year"] = kept["aaer_text"].map(enforcement_year)
     kept = kept.drop_duplicates(subset=["cik", "aaer_text"])
 
