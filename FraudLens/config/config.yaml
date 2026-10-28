@@ -1,0 +1,23 @@
+sec:
+  user_agent: "Lakshita Pagaria lakshita.pagaria@gmail.com"
+  companies_to_sample: 250
+
+sample:
+  controls_per_fraud: 2
+  seed: 42
+
+world_bank:
+  country: "US"
+  start_year: 2015
+  end_year: 2025
+  indicators:
+    NY.GDP.MKTP.KD.ZG: gdp_growth_pct
+    FS.AST.PRVT.GD.ZS: credit_to_gdp_pct
+    FB.AST.NPER.ZS: npl_ratio_pct
+
+news:
+  request_delay_seconds: 8
+  max_articles_per_company: 8
+  batch_size: 12
+  pause_rate_limited_seconds: 900
+  min_batch_yield: 0.5
