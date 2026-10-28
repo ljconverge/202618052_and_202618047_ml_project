@@ -9,4 +9,3 @@ data/raw/
 data/interim/
 models/*.joblib
 *.pkl
-reports/tables/
