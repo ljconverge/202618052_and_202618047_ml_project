@@ -1,0 +1,9 @@
+{
+  "run_id": "20261114T115453Z-ab3611",
+  "rebuilt_training": true,
+  "rebuilt_research": true,
+  "test_records": 16000,
+  "threshold": 0.11,
+  "test_cost": 16320,
+  "verification": "passed"
+}

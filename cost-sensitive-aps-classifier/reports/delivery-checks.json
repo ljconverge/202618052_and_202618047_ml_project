@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "automated_tests": 50,
+  "errors": 0,
+  "failures": 0,
+  "notebook_code_cells": 14,
+  "notebook_status": "passed",
+  "unchanged_runtime_modules": 8,
+  "dependency_pins_checked": 83,
+  "listed_advisories": 0,
+  "original_raw_datasets_included": true
+}

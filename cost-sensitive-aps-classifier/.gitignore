@@ -1,16 +1,13 @@
-# Python & IDE
-__pycache__/
-*.py[cod]
-*$py.class
+.streamlit/secrets.toml
+.env
 .venv/
+.venv312/
 csac/
+archive/
+dataset/raw_data/*.csv
 .idea/
-.vscode/
-
-# Datasets (Do not upload large CSV files to GitHub)
-dataset/raw_data/
-dataset/
-
-# OS Files
-.DS_Store
-Thumbs.db
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+runs/
+*.zip

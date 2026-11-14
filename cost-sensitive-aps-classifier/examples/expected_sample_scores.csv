@@ -1,0 +1,6 @@
+record_id,model_score,missing_fraction,action,model_id,threshold
+training-example-1,0.0,0.029411764705882353,Below threshold,artifacts,0.11
+training-example-2,0.0,0.12352941176470589,Below threshold,artifacts,0.11
+training-example-3,0.0,0.047058823529411764,Below threshold,artifacts,0.11
+training-example-4,0.88,0.1,Review for inspection,artifacts,0.11
+training-example-5,0.9,0.12941176470588237,Review for inspection,artifacts,0.11

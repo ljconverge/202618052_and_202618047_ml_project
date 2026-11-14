@@ -1,0 +1,17 @@
+.git
+.venv
+csac
+.idea
+__pycache__
+.pytest_cache
+.ipynb_checkpoints
+dataset
+notebooks
+tests
+runs
+reports
+examples
+.streamlit/secrets.toml
+*.zip
+.venv312/
+archive/

@@ -1,0 +1,20 @@
+services:
+  aps:
+    build: .
+    ports:
+      - "127.0.0.1:8501:8501"
+    environment:
+      APS_AUTH_MODE: oidc
+    volumes:
+      - ./.streamlit/secrets.toml:/app/.streamlit/secrets.toml:ro
+    read_only: true
+    tmpfs:
+      - /tmp
+    mem_limit: 2g
+    cpus: 2
+    pids_limit: 128
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    restart: unless-stopped
