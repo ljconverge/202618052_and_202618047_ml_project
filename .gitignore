@@ -1,0 +1,17 @@
+# Python & IDE
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+csac/
+.idea/
+.vscode/
+
+# Datasets
+dataset/raw_data/
+dataset/
+
+# OS Files
+.DS_Store
+Thumbs.db
